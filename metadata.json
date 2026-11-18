@@ -1,0 +1,6 @@
+{
+  "name": "9HR India - Secure HR Onboarding Portal",
+  "description": "Enterprise HR onboarding and verification portal for 9HR India Pvt. Ltd. candidate lifecycle, recruiter pipelines, and compliance operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
